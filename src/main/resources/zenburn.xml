@@ -50,6 +50,7 @@
     <option name="TEARLINE_COLOR" value="4f4f4f" />
     <option name="TOOLTIP" value="5f5f5f" />
     <option name="VISUAL_INDENT_GUIDE" value="383838" />
+    <option name="INDENT_GUIDE" value="373737" />
     <option name="ANNOTATIONS_COLOR" value="c2c2c2" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="213d1c" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="28371a" />
@@ -608,8 +609,8 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dcdccc" />
-        <option name="BACKGROUND" value="8c5353" />
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="450505" />
         <option name="EFFECT_COLOR" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -752,7 +753,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="5f7f5f" />
+        <option name="BACKGROUND" value="364135" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
