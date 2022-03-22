@@ -1,4 +1,4 @@
-<scheme name="Zenburn" version="142" parent_scheme="Default">
+<scheme name="Zenburn" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -23,8 +23,8 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="7f9f7f" />
     <option name="CARET_COLOR" value="dcdccc" />
-    <option name="CARET_ROW_COLOR" value="303030" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="303030" />
+    <option name="CARET_ROW_COLOR" value="1f1f1f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="111111" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="6f6f6f" />
     <option name="DOCUMENTATION_COLOR" value="2b2b2b" />
     <option name="DOC_COMMENT_GUIDE" value="656555" />
@@ -36,7 +36,8 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="505050" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="505050" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="505050" />
-    <option name="LINE_NUMBERS_COLOR" value="656555" />
+    <option name="LINE_NUMBERS_COLOR" value="7f9f7f" />
+    <option name="LOOKUP_COLOR" value="444444" />
     <option name="METHOD_SEPARATORS_COLOR" value="5f5f5f" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="MODIFIED_TAB_ICON" value="94bff3" />
@@ -184,7 +185,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="8c5353" />
+        <option name="BACKGROUND" value="3a2323" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -514,12 +515,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="dcdccc" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -615,6 +610,12 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="c3c3c3" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="45302b" />
@@ -673,7 +674,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="94bff3" />
+        <option name="BACKGROUND" value="2d6099" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -1368,7 +1369,7 @@
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="BACKGROUND" value="303030" />
+        <option name="BACKGROUND" value="1f1f1f" />
       </value>
     </option>
     <option name="TEXT">
