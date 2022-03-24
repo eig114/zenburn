@@ -8,12 +8,12 @@
       "foreground": "#c6c6c6",
       "selectionForeground": "#c6c6c6",
       "errorForeground": "#cc9393",
-      "background": "#111111",
+      "background": "#3a3a3a",
       "disabledBackground": "#3a3a3a",
       "inactiveBackground": "#3a3a3a",
       "selectionBackground": "#545454",
-      "selectionInactiveBackground": "#343434",
-      "selectionBackgroundInactive": "#343434",
+      "selectionInactiveBackground": "#545454",
+      "selectionBackgroundInactive": "#545454",
       "lightSelectionBackground": "#393a3d",
       "lightSelectionInactiveBackground": "#2f3032",
       "borderColor": "#414245",
@@ -48,7 +48,7 @@
       "foreground": "#c6c6c6"
     },
     "FileColor": {
-      "Yellow": "#404024"
+      "Yellow": "#545454"
     }
   }
 }

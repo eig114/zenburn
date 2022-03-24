@@ -1,0 +1,106 @@
+{
+  "name": "Darkburn",
+  "dark": true,
+  "author": "eig114",
+  "editorScheme": "/darkburn.xml",
+
+  "colors": {
+    "zenburn-fg-1"     : "#656555",
+    "zenburn-fg-05"    : "#989890",
+    "zenburn-fg"       : "#dcdccc",
+    "zenburn-fg+1"     : "#ececec",
+    "zenburn-fg+2"     : "#fcfcfc",
+    "zenburn-bg-1"     : "#000000",
+    "zenburn-bg"       : "#101010",
+    "zenburn-bg+1"     : "#202020",
+    "zenburn-bg+2"     : "#303030",
+    "zenburn-bg+3"     : "#404040",
+    "zenburn-bg+05"    : "#606060",
+    "zenburn-darkred"  : "#5e0000",
+    "zenburn-red-6"    : "#6c3333",
+    "zenburn-red-5"    : "#7c4343",
+    "zenburn-red-4"    : "#8c5353",
+    "zenburn-red-3"    : "#9c6363",
+    "zenburn-red-2"    : "#ac7373",
+    "zenburn-red-1"    : "#bc8383",
+    "zenburn-red"      : "#cc9393",
+    "zenburn-red+1"    : "#dca3a3",
+    "zenburn-red+2"    : "#ecb3b3",
+    "zenburn-orange"   : "#dfaf8f",
+    "zenburn-brown"    : "#404024",
+    "zenburn-yellow-5" : "#a08f5f",
+    "zenburn-yellow-2" : "#d0bf8f",
+    "zenburn-yellow-1" : "#e0cf9f",
+    "zenburn-yellow"   : "#f0dfaf",
+    "zenburn-green-5"  : "#2f4f2f",
+    "zenburn-green-4"  : "#3f5f3f",
+    "zenburn-green-3"  : "#4f6f4f",
+    "zenburn-green-2"  : "#5f7f5f",
+    "zenburn-green-1"  : "#6f8f6f",
+    "zenburn-green"    : "#7f9f7f",
+    "zenburn-green+1"  : "#8fb28f",
+    "zenburn-green+2"  : "#9fc59f",
+    "zenburn-green+3"  : "#afd8af",
+    "zenburn-green+4"  : "#bfebbf",
+    "zenburn-cyan"     : "#93e0e3",
+    "zenburn-blue+3"   : "#bde0f3",
+    "zenburn-blue+2"   : "#ace0e3",
+    "zenburn-blue+1"   : "#94bff3",
+    "zenburn-blue"     : "#8cd0d3",
+    "zenburn-blue-1"   : "#7cb8bb",
+    "zenburn-blue-2"   : "#6ca0a3",
+    "zenburn-blue-3"   : "#5c888b",
+    "zenburn-blue-4"   : "#4c7073",
+    "zenburn-blue-5"   : "#366060",
+    "zenburn-magenta"  : "#dc8cc3"
+  },
+  
+  "ui": {
+    "*": {
+      "foreground": "zenburn-fg",
+      "selectionForeground": "zenburn-fg",
+      "errorForeground": "zenburn-red",
+      "background": "zenburn-bg",
+      "disabledBackground": "zenburn-bg+3",
+      "inactiveBackground": "zenburn-bg+3",
+      "selectionBackground": "zenburn-bg+05",
+      "selectionInactiveBackground": "zenburn-bg+05",
+      "selectionBackgroundInactive": "zenburn-bg+05",
+      "lightSelectionBackground": "zenburn-bg+2",
+      "lightSelectionInactiveBackground": "zenburn-bg+05",
+      "borderColor": "#414245",
+      "disabledBorderColor": "#333336",
+      "separatorForeground": "#414245",
+      "separatorColor": "#414245",
+      "lineSeparatorColor": "#414245"
+    },
+    "EditorTabs": {
+      "borderColor": "#373737",
+      "underlineColor": "#242424"
+    },
+    "Borders.color": "zenburn-bg-05",
+    "Borders.ContrastBorderColor": "zenburn-bg+3",
+    "Menu.background": "zenburn-bg-05",
+    "Menu.disabledBackground": "zenburn-bg-1",
+    "ToolWindow": {
+      "Header": {
+        "background": "zenburn-bg-1",
+        "inactiveBackground": "zenburn-bg-1"
+      },
+      "Button": {
+        "hoverBackground": "zenburn-bg-05",
+        "selectedBackground": "zenburn-bg+2",
+        "selectedForeground": "zenburn-fg+2"
+      },
+      "HeaderTab.hoverBackground": "zenburn-darkred"
+    },
+    "PopupMenu": {
+      "borderWidth": 0,
+      "background": "zenburn-bg-1",
+      "foreground": "zenburn-fg"
+    },
+    "FileColor": {
+      "Yellow": "zenburn-brown"
+    }
+  }
+}
