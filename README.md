@@ -2,24 +2,27 @@
 
 ![screenshot](example.png)
 
+![screenshot](example-dark.png)
+
 <!-- Plugin description -->
 Zenburn is a low-contrast color scheme for Vim, ported to Intellij.
 It's easy on the eyes and designed to keep you in the zone for long
 programming sessions.  Zenburn has been ported to many different editors
 and environments.  For more information and list of derivatives, visit
 http://kippura.org/zenburnpage.
+
+This fork also includes darker, more high-contrast variant called Darkburn
 <!-- Plugin description end -->
 
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Zenburn"</kbd> >
-  <kbd>Install Plugin</kbd>
+  Currently unavailable in the marketplace
 
 - Manually:
 
-  Download the [latest release](https://github.com/smashedtoatoms/zenburn/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/eig114/zenburn/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ---
