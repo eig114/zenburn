@@ -1,8 +1,8 @@
-# Zenburn
-
-![screenshot](example.png)
+# Darkburn
 
 ![screenshot](example-dark.png)
+
+![screenshot](example.png)
 
 <!-- Plugin description -->
 Zenburn is a low-contrast color scheme for Vim, ported to Intellij.

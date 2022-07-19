@@ -1,1 +1,1 @@
-rootProject.name = "zenburn"
+rootProject.name = "darkburn"
