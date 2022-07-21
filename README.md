@@ -18,7 +18,8 @@ This fork also includes darker, more high-contrast variant called Darkburn
 
 - Using IDE built-in plugin system:
 
-  Currently unavailable in the marketplace
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Darkburn"</kbd> >
+  <kbd>Install Plugin</kbd>
 
 - Manually:
 
