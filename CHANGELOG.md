@@ -7,6 +7,14 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.1]
+### Changed
+- Bump supported platform version to 222.*
+- Bump Gradle IntelliJ Plugin version to 1.7.0
+- Bump Java version to 17
+- Bump Gradle version to 7.5
+
 ## [0.1.0]
+### Added
 - Initial port from smashedtoatoms version
 - Colors copied and slightly tweaked from [Darkburn theme for Emacs](https://github.com/gorauskas/darkburn-theme)
