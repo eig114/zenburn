@@ -7,6 +7,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.2]
+### Changed
+- Bump supported platform version to 223.*
+- Remove Qodana integration
+
 ## [0.1.1]
 ### Changed
 - Bump supported platform version to 222.*
