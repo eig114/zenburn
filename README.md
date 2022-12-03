@@ -9,7 +9,7 @@ Zenburn is a low-contrast color scheme for Vim, ported to Intellij.
 It's easy on the eyes and designed to keep you in the zone for long
 programming sessions.  Zenburn has been ported to many different editors
 and environments.  For more information and list of derivatives, visit
-http://kippura.org/zenburnpage.
+https://kippura.org/zenburnpage.
 
 This fork also includes darker, more high-contrast variant called Darkburn
 <!-- Plugin description end -->
