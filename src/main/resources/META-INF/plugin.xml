@@ -1,18 +1,18 @@
 <idea-plugin>
     <id>com.github.eig114.darkburn</id>
     <name>Darkburn</name>
-    <version>0.1.2</version>
     <vendor email="eig114@gmail.com" url="https://github.com/eig114">eig114</vendor>
-    <description><![CDATA[
-    Zenburn is a low-contrast color scheme for Vim, ported to Intellij.  It's easy for your eyes and designed to keep you in the zone for long programming sessions. Zenburn has been ported to many different editors and environments. For more information and list of derivatives, visit https://kippura.org/zenburnpage.
-    This fork also includes darker, more high-contrast variant called Darkburn.
-    ]]></description>
-    <change-notes>&lt;![CDATA[]]&gt;</change-notes>
-    <idea-version since-build='191.0'/>
     <depends>com.intellij.modules.lang</depends>
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.smashedtoatoms.zenburn" path="/zenburn.theme.json"/>
         <themeProvider id="com.github.eig114.darkburn" path="/darkburn.theme.json"/>
     </extensions>
     <actions/>
+
+    <!-- following tags are filled by patchPluginXml gradle task -->
+
+    <!--<version>0.1.2</version>
+    <idea-version since-build='191.0'/>
+    <change-notes>&lt;![CDATA[]]&gt;</change-notes>
+    <description><![CDATA[]]></description>-->
 </idea-plugin>
