@@ -80,7 +80,7 @@
     },
     "Borders.color": "zenburn-bg+3",
     "Borders.ContrastBorderColor": "zenburn-bg+3",
-    "Menu.background": "zenburn-bg+3",
+    "Menu.background": "zenburn-bg",
     "Menu.disabledBackground": "zenburn-bg-1",
     "ToolWindow": {
       "Header": {
