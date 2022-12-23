@@ -78,9 +78,9 @@
       "borderColor": "#373737",
       "underlineColor": "#242424"
     },
-    "Borders.color": "zenburn-bg-05",
+    "Borders.color": "zenburn-bg+3",
     "Borders.ContrastBorderColor": "zenburn-bg+3",
-    "Menu.background": "zenburn-bg-05",
+    "Menu.background": "zenburn-bg+3",
     "Menu.disabledBackground": "zenburn-bg-1",
     "ToolWindow": {
       "Header": {
@@ -88,7 +88,7 @@
         "inactiveBackground": "zenburn-bg-1"
       },
       "Button": {
-        "hoverBackground": "zenburn-bg-05",
+        "hoverBackground": "zenburn-bg+3",
         "selectedBackground": "zenburn-bg+2",
         "selectedForeground": "zenburn-fg+2"
       },
