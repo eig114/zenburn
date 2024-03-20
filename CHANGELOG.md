@@ -6,6 +6,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.6]
+
+### Changed
+- Bump supported platform version to 241.*
+
 ## [0.1.5]
 
 ### Changed
@@ -47,7 +52,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Initial port from smashedtoatoms version
 - Colors copied and slightly tweaked from [Darkburn theme for Emacs](https://github.com/gorauskas/darkburn-theme)
 
-[Unreleased]: null/compare/v0.1.5...HEAD
+[Unreleased]: null/compare/v0.1.6...HEAD
+[0.1.6]: null/compare/v0.1.5...v0.1.6
 [0.1.5]: null/compare/v0.1.4...v0.1.5
 [0.1.4]: null/compare/v0.1.3...v0.1.4
 [0.1.3]: null/compare/v0.1.2...v0.1.3
