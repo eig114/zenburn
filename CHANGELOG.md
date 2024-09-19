@@ -6,6 +6,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.0.1]
+
+### Changed
+- remove pluginUntilBuild property
+
 ## [1.0.0]
 
 ### Changed
@@ -60,7 +65,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Initial port from smashedtoatoms version
 - Colors copied and slightly tweaked from [Darkburn theme for Emacs](https://github.com/gorauskas/darkburn-theme)
 
-[Unreleased]: null/compare/v1.0.0...HEAD
+[Unreleased]: null/compare/v1.0.1...HEAD
+[1.0.1]: null/compare/v1.0.0...v1.0.1
 [1.0.0]: null/compare/v0.1.6...v1.0.0
 [0.1.6]: null/compare/v0.1.5...v0.1.6
 [0.1.5]: null/compare/v0.1.4...v0.1.5
